@@ -1,0 +1,6 @@
+<%@ include file="con1.jsp"%>
+
+
+http://www.mkyong.com/java/java-getresourceasstream-in-static-method/
+
+http://www.a2ztechguide.com/2011/12/java-exception-handling-tutorial-with.html
